@@ -1,0 +1,9 @@
+* text=auto
+
+*.mexw64 binary
+*.pptx binary
+*.rar binary
+
+legacy/** linguist-vendored
+data/reference/** linguist-generated
+

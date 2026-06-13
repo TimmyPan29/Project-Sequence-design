@@ -1,0 +1,45 @@
+Elapsed time is 77164.672842 seconds.
+Father seq index for zcp= 74912
+Mother seq index for zcp= 183960
+累積解的數目= 1
+Elapsed time is 1727.526840 seconds.
+
+L＝41  Sseq(183960,:)
+
+A1 =
+
+  Columns 1 through 12
+
+     0     1     0     0     1     1     0     1     1     1     0     1
+
+  Columns 13 through 24
+
+     1     1     1     1     1     0     0     1     1     1     1     0
+
+  Columns 25 through 36
+
+     0     1     0     1     0     1     1     1     0     1     1     1
+
+  Columns 37 through 41
+
+     0     0     1     1     0
+
+>> A2=Sseq(74912,:)
+
+A2 =
+
+  Columns 1 through 12
+
+     0     1     0     1     1     0     1     0     1     1     1     1
+
+  Columns 13 through 24
+
+     0     0     1     0     0     0     0     0     1     1     0     1
+
+  Columns 25 through 36
+
+     0     1     1     1     0     0     1     0     1     1     1     1
+
+  Columns 37 through 41
+
+     1     0     0     0     0 
